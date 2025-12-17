@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Large / sensitive files
+data/raw/*.csv
+models/*.joblib
+
+# Streamlit
+.streamlit/
